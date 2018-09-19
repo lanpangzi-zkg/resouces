@@ -1,0 +1,44 @@
+目录
+ 简介
+ 开发
+ 总结
+-------
+简介
+  1.概念
+    Progressive Web App(渐进式网页应用)
+    渐进式：每个用户在移动端都能打开页面
+  历史
+    Google公司于2015推出的一项概念，专门针对手机WEB提出的一种技术方案，旨在通过新技术，结合web与APP的优势，给
+   移动网站带来更加友好的体验。
+ 
+  优势
+    快速
+    安全
+    可检索
+    可安装
+    易分享传播
+    沉侵式体验
+  产生背景
+    native app
+    react native
+    hybrid app
+    html5
+
+  技术结构
+  项目演示
+
+开发
+   准备
+   Chrome + Web Service for Chrome
+   
+   Manifest
+   
+   Service Worker
+   
+   push 
+   web-push
+总结
+工作运用
+
+参考资料：
+https://www.w3cplus.com/pwa/your-first-pwapp.html
